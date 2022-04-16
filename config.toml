@@ -28,11 +28,10 @@ icon = "fas fa-envelope"
 title = "E-mail"
 url = "mailto:contact@ivanouo.one"
 
-[menu]
 [[menu.main]]
 name = "Home"
 identifier = "home"
-weight = 200
+weight = 100
 url = "/"
 
 [[menu.main]]
