@@ -1,4 +1,4 @@
-baseURL = 'http:blog.ivanouo.one'
+baseURL = 'https://blog.ivanouo.one'
 languageCode = 'en-us'
 theme = "anatole"
 summaryLength = 3
