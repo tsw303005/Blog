@@ -1,0 +1,54 @@
+baseURL = 'http:blog.ivanouo.one'
+languageCode = 'en-us'
+theme = "anatole"
+summaryLength = 3
+enableEmoji = true
+
+[params]
+title = "Ivan's Blog"
+profilePicture = "headshot.webp"
+description = """
+NTHU CS student
+LSALAB member
+AICS backend intern
+"""
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/chuan-ming-ou-7623741a5/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/tsw303005"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:contact@ivanouo.one"
+
+[menu]
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 200
+url = "/"
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+weight = 200
+url = "/posts/"
+
+[[menu.main]]
+name = "About"
+weight = 300
+identifier = "about"
+url = "/about/"
+
+[[menu.main]]
+name = "Resume"
+weight = 400
+identifier = "resume"
+url = "/resume.pdf"
