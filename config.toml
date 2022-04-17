@@ -5,6 +5,7 @@ summaryLength = 3
 enableEmoji = true
 disqusShortname = "blog-lppypx0bp0"
 
+
 [params]
 title = "Ivan's Blog"
 profilePicture = "headshot.webp"

@@ -37,7 +37,7 @@
 
   {{ end }}
 
-  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" "post") }}
   {{ range $paginator.Pages }}
     <div
       class="post {{ with .Site.Params.doNotLoadAnimations }}
