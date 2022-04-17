@@ -82,9 +82,6 @@
 
       {{ end }}
     </div>
-    <div>
-      {{ partial "disqus.html" . }}
-    </div>
 
     {{ if and (or (eq .Type "post") (eq .Type .Site.Params.postSectionName)) (ne .Page.Params.disableComments true) }}
       {{- if .Site.DisqusShortname -}}
@@ -116,6 +113,12 @@
 
       {{- end -}}
     {{ end }}
+
+    {{ if and .Site.DisqusShortname (eq .Type "post")}}
+      <div>
+        {{ partial "disqus.html" . }}
+      </div>
+    {{end}}
   </div>
 
 {{ end }}

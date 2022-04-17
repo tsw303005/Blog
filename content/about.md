@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2022-04-16T03:29:23+08:00
 draft: false
+type: "about"
 ---
 <span>我是 Ivan~ 目前是清華大學資工大四，同時也在 LSALAB 擔任碩0，開始研究分散式相關的領域。</span>
 
