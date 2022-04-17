@@ -10,6 +10,10 @@ tags:
     - interview
     - intern
 summary: "分享 AICS backend intern 的全部面試流程跟心得～"
+keywords:
+    - AICS
+    - 實習
+    - 面試
 ---
 
 ## 前言
