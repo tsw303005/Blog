@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://blog.ivanouo.one/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>AICS on </title>
+    <link>https://blog.ivanouo.one/tags/aics/</link>
+    <description>Recent content in AICS on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 04:40:58 +0800</lastBuildDate><atom:link href="https://blog.ivanouo.one/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 04:40:58 +0800</lastBuildDate><atom:link href="https://blog.ivanouo.one/tags/aics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AICS 實習面試經驗分享</title>
       <link>https://blog.ivanouo.one/posts/aics-%E5%AF%A6%E7%BF%92%E9%9D%A2%E8%A9%A6%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB/</link>
