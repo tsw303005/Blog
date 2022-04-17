@@ -6,6 +6,11 @@ enableEmoji = true
 disqusShortname = "blog-lppypx0bp0"
 googleAnalytics = "G-WKPEY3FZ2Z"
 
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
 [params]
 title = "Ivan's Blog"
 profilePicture = "headshot.webp"
