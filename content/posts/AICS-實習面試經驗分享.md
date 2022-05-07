@@ -3,17 +3,23 @@ title: "AICS 實習面試經驗分享"
 date: 2022-04-16T04:40:58+08:00
 draft: false
 author: "Ivan"
-description: "AICS backend intern 的面試全部流程～"
+description: "這篇我面試華碩 AICS backend intern 的所有面試流程跟心得"
 type: "post"
 tags:
     - AICS
     - interview
     - intern
-summary: "分享 AICS backend intern 的全部面試流程跟心得～"
+    - 面試
+    - 華碩
+    - 實習
+summary: "裡面分享 AICS backend intern 的全部面試流程跟心得～"
 keywords:
     - AICS
     - 實習
     - 面試
+    - AICS
+    - interview
+    - intern
 ---
 
 ## 前言
